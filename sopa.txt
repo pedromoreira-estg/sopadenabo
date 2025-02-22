@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ingredientes:
 – 2 cabeças de nabo com rama;
 – 2 batatas médias;
@@ -7,3 +8,5 @@ Preparação:
 Lavar bem os nabos e separa as cabeças da rama.
 Descasca os nakjshkshjksjhksjkhjsura e cozinha por cerca de 10 minutos em lume brando.
 Retira do lume e serve de imediato.
+=======
+>>>>>>> parent of 281369b (receita de sopa v1)
