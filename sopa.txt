@@ -24,3 +24,5 @@ Hidratos de Carbono: 11.98 g
 dos quais Açucares: 1.99 g
 Fibra: 1.84 g	
 Sal: 0.58 g
+
+autor:pedro moreira 2025
